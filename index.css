@@ -148,7 +148,8 @@ header {
 @media screen and (max-width: 768px) {
   .title {
     top: 135px;
-    width: 133px;
+    max-width: 133px;
+    height: auto;
   }
 
   .link {
