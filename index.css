@@ -35,6 +35,8 @@ header {
   top: 187px;
   left: 35px;
   z-index: 1;
+  height: 70px;
+  width: auto;
 }
 
 .link {
